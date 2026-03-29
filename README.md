@@ -1,16 +1,14 @@
-## Hi there 👋
+## Jorge Roldan
 
-<!--
-**roldanjorge/roldanjorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine learning engineer transitioning to **AI safety and alignment research**. My primary interest is in **interpretability** and its applications: understanding the inner workings of neural networks and building robust techniques to make AI systems safer.
 
-Here are some ideas to get you started:
+Originally from Santa Rosa de Osos, Colombia 🇨🇴 · Based in New York City 🗽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to
+
+- 🎓 Participating in [BlueDot Impact's Technical AI Safety Course](https://www.bluedot.org/)
+- 📚 Self-studying [ARENA](https://www.arena.education/) (Alignment Research Engineer Accelerator)
+
+### Get in touch
+
+If you'd like to share your thoughts or just say hello, reach me at **jr@jorgeroldan.io** or visit [jorgeroldan.io](https://jorgeroldan.io).
